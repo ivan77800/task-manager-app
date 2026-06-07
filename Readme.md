@@ -85,17 +85,17 @@ Libraries Used:
 
 Backend
 
-Library	 Version	
-Laravel	 13.x	    
-MySQL	 8.0	    
+Library	 	
+Laravel	     
+MySQL	    
 
 Frontend
 
-Library	   Version	
-Next.js	   14.x	
-TypeScript 5.x	
-Tailwind   CSS	
-React	   18.x	
+Library	   	
+Next.js	   
+TypeScript 	
+Tailwind   	
+React	   
 
 DevOps
 
@@ -111,7 +111,7 @@ Architecture Decisions
 - Clear separation of concerns
 - JSON responses for easy consumption
 
-2. Laravel 13 Structure
+2. Laravel Structure
 - Modern routing in bootstrap/app.php
 - Form Requests for validation
 - Eloquent ORM with query scopes
